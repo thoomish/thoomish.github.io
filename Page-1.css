@@ -53,7 +53,3 @@
 @media (max-width: 767px){ .u-section-3 .u-text-1 {width: 540px}
 .u-section-3 .u-text-2 {width: 540px} }
 
-@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 453px}
-.u-section-3 .u-text-1 {width: 340px}
-.u-section-3 .u-text-2 {width: 340px}
-.u-section-3 .u-text-4 {width: auto; margin-top: 4px; margin-left: auto} }
